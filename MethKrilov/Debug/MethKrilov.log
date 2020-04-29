@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\maxxxymiron\desktop\.пары\выч мат\практика\methkrilov\methkrilov\source.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\выч мат\практика\methkrilov\methkrilov\source.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\выч мат\практика\methkrilov\methkrilov\source.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\maxxxymiron\desktop\.пары\выч мат\практика\methkrilov\methkrilov\source.cpp(59): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  MethKrilov.vcxproj -> C:\Users\MAXXXYMIRON\Desktop\.ПАРЫ\ВЫЧ МАТ\ПРАКТИКА\MethKrilov\Debug\MethKrilov.exe
